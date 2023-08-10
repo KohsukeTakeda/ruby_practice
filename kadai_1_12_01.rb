@@ -1,6 +1,7 @@
 def sum(i)
+
   result = i*2
-  
+
   return result
 end
 
